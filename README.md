@@ -1,5 +1,6 @@
-**FULL NAME: KARISHMA SHAIK**
-**STUDENT ID** 700744936
+Karishma Shaik - Student ID 700744936
+Sri Charan Reddy Nannuri - Student ID 700747879
+Bharath Chandra Tangallapalli - Student ID 700745203
 **CRN:** 30460
 
 **Title: **
